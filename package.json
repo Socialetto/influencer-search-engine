@@ -1,0 +1,27 @@
+{
+  "name": "socialetto-influencer-search-engine",
+  "version": "1.0.0",
+  "description": "Influencer Search Engine search and discover influencers across Instagram, TikTok, and YouTube by niche, followers, and location",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "influencer-search",
+    "influencer-marketing",
+    "influencers",
+    "instagram",
+    "tiktok",
+    "youtube",
+    "marketing",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Socialetto",
+  "license": "ISC",
+  "homepage": "https://socialetto.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socialetto/influencer-search-engine.git"
+  }
+}
